@@ -34,7 +34,7 @@ completed
 completed
 - ### `Javascript`
     - [Javascript](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=21s)(3hrs 20mins)<br>
-
+completed 50%
 ## Assessments
 
 - ### `HTML & CSS`
