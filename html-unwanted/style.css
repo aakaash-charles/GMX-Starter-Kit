@@ -1,0 +1,13 @@
+.menu{
+width: auto;
+height: auto;
+text-align: end;
+align-items: flex-end;
+background-color: brown;
+}
+.portName{
+width: auto;
+height: auto;
+text-align: start;
+background-color: blue;
+}
